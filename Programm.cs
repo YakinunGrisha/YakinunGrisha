@@ -8,7 +8,7 @@ namespace ConsoleMission2._2
         static void Main(string[] args)
         {
         Console.WriteLine("Hello world");
-        /* is lust fun 
+        /* is lust fun */
         }
     }
 }   
